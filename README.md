@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is my personal portfolio website showcasing my projects, skills, and experience. The site is built using HTML, CSS, and JavaScript to create a clean and responsive design.
+This is my personal portfolio website showcasing my projects, skills, and education. The site is built using HTML, CSS, and JavaScript to create a clean and responsive design.
 
 ## Features
 - **Responsive Design:** Optimized for different screen sizes.
